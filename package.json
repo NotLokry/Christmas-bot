@@ -1,0 +1,23 @@
+{
+  "name": "christmas",
+  "version": "1.0.0",
+  "description": "Made by Lokry#5606",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lokry",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.14.0",
+    "@distube/spotify": "^1.4.2",
+    "discord.js": "^14.7.1",
+    "distube": "^4.0.4",
+    "ffmpeg": "^0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.10",
+    "tweetnacl": "^1.0.3"
+  }
+}
